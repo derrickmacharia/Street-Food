@@ -29,12 +29,6 @@ body{
 }
 .menu{
     display: flex;
-    flex
-}
-.contact{
-    background-color: #FFD77C;
-    text-align: center;
-    padding-left: 10%;
 }
 .send{
     background-color: #6CB840;
@@ -50,4 +44,22 @@ body{
 #image3 {
     height: 25%;
     width: 25%;
+}
+#image4 {
+    height: 25%;
+    width: 25%;
+}
+#image5 {
+    height: 25%;
+    width: 25%;
+}
+#image6{
+    height: 25%;
+    width: 25%;
+}
+.container{
+    text-align: center;
+    background-image: url(./Assets/abhishek-hajare-kkrXVKK-jhg-unsplash-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
