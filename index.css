@@ -27,39 +27,54 @@ body{
     margin-left: 10%;
     margin-right: 55%;
 }
-.menu{
+.flex-container{
     display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    text-align: center;
+
+    
 }
 .send{
     background-color: #6CB840;
 }
 #image1{
-    height: 25%;
-    width: 25%;
+    height: 10%;
+    width: 10%;
 }
 #image2{
-    height: 25%;
-    width: 25%;
+    height: 10%;
+    width: 10%;
 }
 #image3 {
-    height: 25%;
-    width: 25%;
+    height: 10%;
+    width: 10%;
 }
 #image4 {
-    height: 25%;
-    width: 25%;
+    height: 10%;
+    width: 10%;
 }
 #image5 {
-    height: 25%;
-    width: 25%;
+    height: 10%;
+    width: 10%;
 }
 #image6{
-    height: 25%;
-    width: 25%;
+    height: 10%;
+    width: 10%;
 }
 .container{
     text-align: center;
     background-image: url(./Assets/abhishek-hajare-kkrXVKK-jhg-unsplash-removebg-preview.png);
     background-repeat: no-repeat;
     background-position: left;
+}
+#link{
+    border-radius: 200px;
+}
+.contact{
+    background-color: #FFD77C;
+    border: 2px;
+}
+.eat{
+    text-align: right;
 }
