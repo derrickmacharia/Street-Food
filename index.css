@@ -1,0 +1,53 @@
+body{
+    font-family: popins;
+}
+.header {
+    padding: 60px;
+    text-align: center;
+    justify-content: center;
+    font-size: 30px;
+    display: inline;
+  }
+  .page1,h2,#order {
+      margin-left: 10%;
+      margin-right: 55%;
+}
+#head2{
+    color: #6CB840;
+}
+#head1{
+    color:   #EAAB1B;
+    
+}
+.paragraph{
+    padding-left: 30%;
+    background-color: #6CB840;
+}
+.h3{
+    margin-left: 10%;
+    margin-right: 55%;
+}
+.menu{
+    display: flex;
+    flex
+}
+.contact{
+    background-color: #FFD77C;
+    text-align: center;
+    padding-left: 10%;
+}
+.send{
+    background-color: #6CB840;
+}
+#image1{
+    height: 25%;
+    width: 25%;
+}
+#image2{
+    height: 25%;
+    width: 25%;
+}
+#image3 {
+    height: 25%;
+    width: 25%;
+}
