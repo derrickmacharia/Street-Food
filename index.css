@@ -21,6 +21,20 @@ ul{
     width: 70%;
     justify-content: space-evenly;
 }
+#eating{
+    width: 700px;
+    height: 500px;
+
+}
+
+button{
+    height: 7vh;
+    width: 16vh;
+    border-radius: 15vh;
+    background-color: #6CB840;
+    color: white;
+    font-size: 15px;
+}
 #head2{
     color: #6CB840;
 }
