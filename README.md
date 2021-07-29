@@ -7,10 +7,9 @@ This website talks more about street food
 * Inorder to access this website 
 * you can git clone or
 * search on website
-* at 
+* at https://derrickmacharia.github.io/Street-Food/
 * 
-
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+This website is not fully developed .if any changes occur please contact
 ## Technologies Used
 The technologies used were HTML and CSS for styling.
 ## Support and contact details

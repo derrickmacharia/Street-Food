@@ -10,6 +10,13 @@
  nav {
      width: auto;
  }
+ .backg {
+    background-image: url(./Assets/IMG-20210729-WA0001.jpg);
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: 200vh;
+    background-color: grey;
+ }
 ul{
     text-decoration: none;
     list-style: none;
@@ -45,7 +52,8 @@ button {
     float: right;
 }
 #together {
-    flex: 80px left;
+    flex: 40px left;
+    margin-left: 150px;
 }
 button{
     height: 7vh;
@@ -55,23 +63,20 @@ button{
     color: white;
     font-size: 15px;
 }
-#head2{
-    color: #6CB840;
-}
-#head1{
-    color:   #EAAB1B;
-    
-}
 .paragraph{
     padding-left: 30%;
     background-color: #6CB840;
 }
 
-#menu{
+.menu{
+
     text-align: center;
     display: grid;
-
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 50px;
 }
+
 #image1,#image2,#image3,#image4,#image5,#image6{
     height: 100px;
     width: 100px;
@@ -104,6 +109,7 @@ button{
 }
 .eat{
     text-align: center;
+
 }
 .item-1{
     position: absolute;
@@ -111,7 +117,7 @@ button{
 }
 .item-2{
     position: relative;
-    left: 55px;
+    left: -230px;
     top: 500px;
 } 
 .item-3 {
