@@ -127,19 +127,25 @@ button{
     margin-left: 70px;
     margin-right: 70px;
     margin-top: 60px;
-    padding-top: 90px;
-    padding-bottom: 50px;
+    padding-top: 100px;
+    padding-bottom: 150px;
 }
 .section-1 {
     float: left;
+    margin-left: 30px;
+    margin-right: 40px;
 }
 .section-2 {
     float: left;
+    margin-right: 100px;
 }
 .section-3 {
-    float: center;
+    float: right;
+    display: block;
+    margin-right: 100px;
 }
 
 .section-4 {
     float: right;
+    padding-right: 20px;
 }
