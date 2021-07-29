@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
  }
 .main-flex {
     display: flex;
@@ -26,12 +27,26 @@ ul{
     width: 70%;
     justify-content: space-evenly;
 }
+button {
+    margin-top: 20px;
+}
+.street {
+    margin-left: 45px;
+}
+.one {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
 #eating{
     width: 700px;
     height: 500px;
-
 }
-
+.float {
+    float: right;
+}
+#together {
+    flex: 80px left;
+}
 button{
     height: 7vh;
     width: 16vh;
@@ -107,3 +122,24 @@ button{
     bottom: 80%;
     transform: translateX(-25%);
 } 
+.footer {
+    background-color: #C9ECB5;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 60px;
+    padding-top: 90px;
+    padding-bottom: 50px;
+}
+.section-1 {
+    float: left;
+}
+.section-2 {
+    float: left;
+}
+.section-3 {
+    float: center;
+}
+
+.section-4 {
+    float: right;
+}
