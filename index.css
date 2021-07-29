@@ -37,21 +37,15 @@ button {
     margin-top: 15px;
     margin-bottom: 10px;
 }
-.eating{
-    width: 500px;
-    height: 300px;
+#eating{
+    width: 700px;
+    height: 500px;
 }
 .float {
-    margin-top: 30px;
-    margin-bottom: 60px;
+    float: right;
 }
-.eat{
-    text-align: center;
-    margin-right: -90px;
-
-}
-.together {
-    margin-right: 90px;
+#together {
+    flex: 80px left;
 }
 button{
     height: 7vh;
@@ -82,6 +76,11 @@ button{
     height: 100px;
     width: 100px;
 }
+#flex{
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+}
 .send{
     background-color: #6CB840;
 }
@@ -103,30 +102,30 @@ button{
 .pack{
     color:#6CB840;
 }
+.eat{
+    text-align: center;
+}
 .item-1{
     position: absolute;
-    bottom: -1470px;
+    bottom: -370vh;
 }
 .item-2{
     position: relative;
     left: 55px;
-    top: 50px;
+    top: 500px;
 } 
 .item-3 {
-    text-align: center;
+    text-align: initial;
     height: 100px;
     width: 300px;
+    margin-left: 150vh;
+    margin-bottom: 70vh;
+}
+.item4 {
+    text-align: center;
 }
 .deals{
     color: #6CB840;;
-}
-.upper-text{
-    text-align: center;
-}
-.hot{
-    margin-left: 70px;
-    margin-right: 70px;
-    margin-top: 150px;
 }
 .footer {
     background-color: #C9ECB5;
