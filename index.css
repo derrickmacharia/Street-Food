@@ -9,14 +9,9 @@
  }
  nav {
      width: auto;
+     background-color: lightgray;
  }
- .backg {
-    background-image: url(./Assets/IMG-20210729-WA0001.jpg);
-    background-repeat: no-repeat;
-    background-position: top right;
-    background-size: 200vh;
-    background-color: grey;
- }
+
 ul{
     text-decoration: none;
     list-style: none;
