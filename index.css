@@ -52,8 +52,8 @@ button {
     float: right;
 }
 #together {
-    flex: 40px left;
-    margin-left: 150px;
+    flex: 80px left;
+    margin-left: 50px;
 }
 button{
     height: 7vh;
