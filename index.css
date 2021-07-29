@@ -37,19 +37,25 @@ button {
     margin-top: 15px;
     margin-bottom: 10px;
 }
-#eating{
-    width: 700px;
-    height: 500px;
+.eating{
+    width: 500px;
+    height: 300px;
 }
 .float {
-    float: right;
+    margin-top: 30px;
+    margin-bottom: 60px;
 }
-#together {
-    flex: 80px left;
+.eat{
+    text-align: center;
+    margin-right: -90px;
+
+}
+.together {
+    margin-right: 90px;
 }
 button{
     height: 7vh;
-    width: 16vh;
+    width: 17vh;
     border-radius: 15vh;
     background-color: #6CB840;
     color: white;
@@ -76,52 +82,52 @@ button{
     height: 100px;
     width: 100px;
 }
-#flex{
-    display: flex;
-    text-align: center;
-    flex-wrap: wrap;
-}
 .send{
     background-color: #6CB840;
 }
-.container{
-    text-align: center;
-    display: flexbox;
+.flexcontainer1 {
+    display: flex;
     flex-wrap: wrap;
-}
-#link{
-    border-radius: 200px;
 }
 .contact{
     background-color: #FFD77C;
     border: 2px;
     text-align: center;
-    display: flexbox;
-    flex-wrap: wrap;
     justify-content: center;
-}
-#combo{
-    
-    text-align: center;
-    display: grid;
-    flex-wrap: wrap;
-    right: -30%;
+    margin-left:70px;
+    margin-right: 70px;
+    margin-bottom: 60px;
+    padding-top: 100px;
+    padding-bottom: 90px;
 }
 .pack{
     color:#6CB840;
 }
-.eat{
+.item-1{
+    position: absolute;
+    bottom: -1470px;
+}
+.item-2{
+    position: relative;
+    left: 55px;
+    top: 50px;
+} 
+.item-3 {
+    text-align: center;
+    height: 100px;
+    width: 300px;
+}
+.deals{
+    color: #6CB840;;
+}
+.upper-text{
     text-align: center;
 }
-.juice{
-    position: relative;
-    right: 30%;
+.hot{
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 150px;
 }
-.burger{
-    position: relative;
-    bottom: 80%;
-    transform: translateX(-25%);
-} 
 .footer {
     background-color: #C9ECB5;
     margin-left: 70px;
@@ -132,8 +138,11 @@ button{
 }
 .section-1 {
     float: left;
-    margin-left: 30px;
-    margin-right: 40px;
+    margin-left: 40px;
+    margin-right: 70px;
+    border-right: 2px dotted #6CB840;
+    padding-right: 40px;
+
 }
 .section-2 {
     float: left;
