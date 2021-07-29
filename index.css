@@ -13,6 +13,11 @@ ul{
     text-decoration: none;
     list-style: none;
 }
+.star {
+    height: 70px;
+    width: 70px;
+    background-color: brown;
+}
 .header {
     width: 100%;
 }
@@ -92,8 +97,6 @@ button{
 }
 .eat{
     text-align: center;
-    display: flexbox;
-    flex-wrap: wrap;
 }
 .juice{
     position: relative;
