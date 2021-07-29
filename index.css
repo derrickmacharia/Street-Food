@@ -45,8 +45,9 @@ button {
     margin-bottom: 10px;
 }
 #eating{
-    width: 700px;
-    height: 500px;
+    width: 500px;
+    height: 300px;
+    margin-right: 140px;
 }
 .float {
     float: right;
@@ -69,12 +70,13 @@ button{
 }
 
 .menu{
-
     text-align: center;
     display: grid;
     margin-right: 50px;
     margin-left: 50px;
     padding-left: 50px;
+    margin-top: 90px;
+    right: 70px;
 }
 
 #image1,#image2,#image3,#image4,#image5,#image6{
