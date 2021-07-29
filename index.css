@@ -29,7 +29,7 @@ ul{
     width: 70%;
     justify-content: space-evenly;
 }
-button {
+button{
     margin-top: 20px;
 }
 .street {
@@ -77,11 +77,6 @@ button{
 #image1,#image2,#image3,#image4,#image5,#image6{
     height: 100px;
     width: 100px;
-}
-#flex{
-    display: flex;
-    text-align: center;
-    flex-wrap: wrap;
 }
 .send{
     background-color: #6CB840;
