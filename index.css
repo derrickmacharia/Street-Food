@@ -9,7 +9,6 @@
  }
  nav {
      width: auto;
-     background-color: lightgray;
  }
 
 ul{
@@ -39,17 +38,15 @@ button{
     margin-top: 15px;
     margin-bottom: 10px;
 }
-#eating{
-    width: 500px;
-    height: 300px;
+.eating{
     margin-right: 140px;
 }
 .float {
     float: right;
 }
-#together {
+.together {
     flex: 80px left;
-    margin-left: 50px;
+    margin-left: 330px;
 }
 button{
     height: 7vh;
@@ -105,11 +102,11 @@ button{
 }
 .item-1{
     position: absolute;
-    bottom: -370vh;
+    bottom: -300vh;
 }
 .item-2{
     position: relative;
-    left: -230px;
+    left: 20px;
     top: 500px;
 } 
 .item-3 {
